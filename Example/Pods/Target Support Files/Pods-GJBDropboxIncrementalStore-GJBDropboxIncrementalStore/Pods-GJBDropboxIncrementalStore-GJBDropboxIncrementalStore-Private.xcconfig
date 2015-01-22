@@ -1,0 +1,6 @@
+#include "Pods-GJBDropboxIncrementalStore-GJBDropboxIncrementalStore.xcconfig"
+FRAMEWORK_SEARCH_PATHS = ${PODS_GJBDROPBOXINCREMENTALSTORE_GJBDROPBOXINCREMENTALSTORE_FRAMEWORK_SEARCH_PATHS}
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers/Build" "${PODS_ROOT}/Headers/Build/GJBDropboxIncrementalStore" "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/Dropbox-Sync-API-SDK" "${PODS_ROOT}/Headers/Public/GJBDropboxIncrementalStore"
+OTHER_LDFLAGS = -ObjC
+PODS_ROOT = ${SRCROOT}

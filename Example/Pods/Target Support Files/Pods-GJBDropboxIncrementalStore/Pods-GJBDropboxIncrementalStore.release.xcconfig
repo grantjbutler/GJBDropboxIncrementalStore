@@ -1,0 +1,7 @@
+FRAMEWORK_SEARCH_PATHS = "$(PODS_ROOT)/Dropbox-Sync-API-SDK/dropbox-ios-sync-sdk-3.1.2" $(PODS_ROOT)/Dropbox-Sync-API-SDK/**
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/Dropbox-Sync-API-SDK" "${PODS_ROOT}/Headers/Public/GJBDropboxIncrementalStore"
+OTHER_CFLAGS = $(inherited) -isystem "${PODS_ROOT}/Headers/Public" -isystem "${PODS_ROOT}/Headers/Public/Dropbox-Sync-API-SDK" -isystem "${PODS_ROOT}/Headers/Public/GJBDropboxIncrementalStore"
+OTHER_LDFLAGS = -ObjC -l"Pods-GJBDropboxIncrementalStore-Dropbox-Sync-API-SDK" -l"Pods-GJBDropboxIncrementalStore-GJBDropboxIncrementalStore" -l"c++" -framework "CFNetwork" -framework "Dropbox" -framework "QuartzCore" -framework "Security" -framework "SystemConfiguration"
+OTHER_LIBTOOLFLAGS = $(OTHER_LDFLAGS)
+PODS_ROOT = ${SRCROOT}/Pods

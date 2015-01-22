@@ -1,0 +1,8 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+
+target 'GJBDropboxIncrementalStore', :exclusive => true do
+  pod "GJBDropboxIncrementalStore", :path => "../"
+
+  
+end

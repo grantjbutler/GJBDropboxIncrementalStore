@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>07801E64-A004-47DE-A31E-F20544E8A71A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GJBDropboxIncrementalStore</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9C0A1F7FC396C5A51626A99B1774BB3E89CC4DCC</key>
+		<string>github.com:grantjbutler/GJBDropboxIncrementalStore.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Example/GJBDropboxIncrementalStore/GJBDropboxIncrementalStore.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9C0A1F7FC396C5A51626A99B1774BB3E89CC4DCC</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:grantjbutler/GJBDropboxIncrementalStore.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9C0A1F7FC396C5A51626A99B1774BB3E89CC4DCC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9C0A1F7FC396C5A51626A99B1774BB3E89CC4DCC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GJBDropboxIncrementalStore</string>
+		</dict>
+	</array>
+</dict>
+</plist>

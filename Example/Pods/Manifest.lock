@@ -1,0 +1,17 @@
+PODS:
+  - Dropbox-Sync-API-SDK (3.1.2)
+  - GJBDropboxIncrementalStore (0.1.0):
+    - Dropbox-Sync-API-SDK (~> 3.1)
+
+DEPENDENCIES:
+  - GJBDropboxIncrementalStore (from `../`)
+
+EXTERNAL SOURCES:
+  GJBDropboxIncrementalStore:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Dropbox-Sync-API-SDK: 16aef545267acf60efdbecbfd1fbdf04d3ee5a7c
+  GJBDropboxIncrementalStore: efd9acb2cbfa942f869679034cb53950b159e582
+
+COCOAPODS: 0.35.0
